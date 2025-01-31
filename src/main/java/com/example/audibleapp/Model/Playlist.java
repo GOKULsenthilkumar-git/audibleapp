@@ -1,4 +1,4 @@
-package com.example.audibleapp.model;
+package com.example.audibleapp.Model;
 
 import jakarta.persistence.*;
 

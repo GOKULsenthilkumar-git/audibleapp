@@ -1,6 +1,6 @@
 package com.example.audibleapp.Controller;
 
-import com.example.audibleapp.model.Playlist;
+import com.example.audibleapp.Model.Playlist;
 import com.example.audibleapp.Service.PlaylistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

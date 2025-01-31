@@ -1,7 +1,7 @@
 package com.example.audibleapp.Service;
 
-import com.example.audibleapp.model.Playlist;
-import com.example.audibleapp.repository.PlaylistRepository;
+import com.example.audibleapp.Model.Playlist;
+import com.example.audibleapp.Repository.PlaylistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
